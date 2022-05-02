@@ -2,3 +2,4 @@
 Farrell, MVC#, 7e MindTap In-Line Videos 
 
 This is a repository of all of the embedded videos in the Farrell, Microsoft Visual C# 2017 MindTap (V1 and V2). 
+Included are .txt and .cs code files to accompnay some videos that may appear blurry.
